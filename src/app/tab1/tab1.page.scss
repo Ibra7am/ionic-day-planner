@@ -2,3 +2,20 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+.task {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+  padding: 1em;
+  flex-direction: row;
+}
+
+.times {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  ion-datetime {
+    padding: 0;
+  }
+}

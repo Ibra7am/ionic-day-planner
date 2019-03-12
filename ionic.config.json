@@ -1,5 +1,8 @@
 {
   "name": "planner",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "f35ff4b5"
 }
